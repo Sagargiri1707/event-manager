@@ -1,0 +1,9 @@
+.footer{
+    background: rgb(179, 252, 252) scroll;
+}
+.paragraph{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+}
